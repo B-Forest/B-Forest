@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Benjamin Forest currently student at MyDigitalSchool Rennes, for a Bachelor Dev Web 👋 :computer:
 
 <!--
 **B-Forest/B-Forest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
