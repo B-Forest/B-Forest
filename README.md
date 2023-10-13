@@ -2,6 +2,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=B-Forest&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=B-Forest&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=B-Forest&theme=aura)
 <!--
 **B-Forest/B-Forest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
